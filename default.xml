@@ -2,7 +2,7 @@
 <manifest>
   <remote name="openembedded" fetch="https://github.com/openembedded/" />
   <remote name="yoctoproject" fetch="https://git.yoctoproject.org/" />
-  <remote name="meta-pic64gx-yocto-bsp" fetch="ssh://git@github.com/pic64gx/" />
+  <remote name="meta-pic64gx-yocto-bsp" fetch="https://github.com/pic64gx/" />
   <default remote="openembedded" revision="master" />
   <project name="meta-pic64gx-yocto-bsp" remote="meta-pic64gx-yocto-bsp" path="meta-pic64gx-yocto-bsp" revision="pic64gx" />
   <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="b7182571242dc4e23e5250a449d90348e62a6abc" />
