@@ -1,6 +1,6 @@
-# PolarFire SoC Yocto Manifests
+# PIC64GX Yocto Manifests
 
-This repository provides manifests to build the [PolarFire SoC Yocto BSP](https://mi-v-ecosystem.github.io/redirects/repo-meta-polarfire-soc-yocto-bsp).
+This repository provides manifests to build the [PIC64GX Yocto BSP](https://github.com/pic64gx/meta-pic64gx-yocto-bsp/tree/pic64gx).
 
 ## Install the repo utility
 
@@ -17,16 +17,16 @@ $ PATH=${PATH}:~/bin
 
 ```bash
 $ mkdir yocto-dev && cd yocto-dev
-$ repo init -u https://github.com/polarfire-soc/polarfire-soc-yocto-manifests.git -b <branch name> -m default.xml
+$ repo init -u https://github.com/pic64gx/pic64gx-yocto-manifests.git -b <branch name> -m default.xml
 ```
 
 ## Examples
 
-To download the **master** branch:
+To download the **main** branch:
 
 ```bash
 $ mkdir yocto-dev && cd yocto-dev
-$ repo init -u https://github.com/polarfire-soc/polarfire-soc-yocto-manifests.git -b main -m default.xml
+$ repo init -u https://github.com/pic64gx/pic64gx-yocto-manifests.git -b main -m default.xml
 ```
 
-For instructions on how to setup and use the Yocto BSP please refer to the [PolarFire SoC Yocto BSP README](https://mi-v-ecosystem.github.io/redirects/repo-meta-polarfire-soc-yocto-bsp).
+For instructions on how to setup and use the Yocto BSP please refer to the [PIC64GX Yocto BSP README](https://github.com/pic64gx/meta-pic64gx-yocto-bsp/blob/pic64gx/README.md).
