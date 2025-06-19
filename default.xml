@@ -5,8 +5,8 @@
   <remote name="meta-pic64gx-yocto-bsp" fetch="https://github.com/pic64gx/" />
   <default remote="openembedded" revision="master" />
   <project name="meta-pic64gx-yocto-bsp" remote="meta-pic64gx-yocto-bsp" path="meta-pic64gx-yocto-bsp" revision="main" />
-  <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="ab2649ef6c83f0ae7cac554a72e6bea4dcda0e99" />
-  <project name="bitbake" remote="openembedded" path="openembedded-core/bitbake" revision="5a90927f31c4f9fccbe5d9d07d08e6e69485baa8" />
-  <project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="8bb16533532b6abc2eded7d9961ab2a108fd7a5b" />
-  <project name="meta-zephyr" remote="yoctoproject" path="meta-zephyr"  revision="5bd0c9b17c3bf1a762d198337797349921cea43f" />
+  <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="236ac1b43308df722a78d3aa20aef065dfae5b2b" />
+  <project name="bitbake" remote="openembedded" path="openembedded-core/bitbake" revision="11d83170922a2c6b9db1f6e8c23e533526984b2c" />
+  <project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="735ae0310870ffce07ce0c55c4f87c20ac161ff9" />
+  <project name="meta-zephyr" remote="yoctoproject" path="meta-zephyr"  revision="763c72fc3088fc09ccfde6edfcdad43811d16616" />
 </manifest>
