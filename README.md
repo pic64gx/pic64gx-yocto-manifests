@@ -1,3 +1,5 @@
+**This repository is archived. The PIC64GX Curiosity Kit Yocto manifests are now in meta-mchp-manifest. Please visit:** https://github.com/linux4microchip/meta-mchp-manifest for the latest updates.
+
 # PIC64GX Yocto Manifests
 
 This repository provides manifests to build the [PIC64GX Yocto BSP](https://github.com/pic64gx/meta-pic64gx-yocto-bsp/tree/pic64gx).
